@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="zio-workshop:main [file:///Users/mike.welsh/Documents/scala_testing/learning-scala/ZIO-workshop/]" external.linked.project.path="$MODULE_DIR$/../../.." external.root.project.path="$MODULE_DIR$/../../.." external.system.id="SBT" external.system.module.type="sbtSourceSet" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="zioWorkshops.main" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+    <output url="file://$MODULE_DIR$/../../../target/scala-2.13/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../src/main/scala" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../target/scala-2.13/resource_managed/main" />
+    <content url="file://$MODULE_DIR$/../../../target/scala-2.13/src_managed/main" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: scala-sdk-2.13.7" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.codingwell:scala-guice_2.13:4.2.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.beachape:enumeratum_2.13:1.7.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.beachape:enumeratum-play-json_2.13:1.7.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.client3:core_2.13:3.3.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.client3:play-json_2.13:3.3.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.client3:okhttp-backend_2.13:3.3.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:1.7.32:jar" level="project" />
+    <orderEntry type="library" name="sbt: ai.x:play-json-extensions_2.13:0.42.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-core_2.13:2.6.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio_2.13:1.0.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio-test_2.13:1.0.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio-test-sbt_2.13:1.0.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio-streams_2.13:1.0.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio-interop-cats_2.13:2.5.1.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.client3:async-http-client-backend-zio_2.13:3.3.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.inject:guice:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.guava:guava:25.1-android:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-reflect:2.13.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.code.findbugs:jsr305:3.0.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.beachape:enumeratum-macros_2.13:1.6.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.play:play-json_2.13:2.9.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.model:core_2.13:1.4.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.shared:core_2.13:1.2.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.shared:ws_2.13:1.2.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.client3:json-common_2.13:3.3.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.squareup.okhttp3:okhttp:4.9.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-kernel_2.13:2.6.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:simulacrum-scalafix-annotations_2.13:0.5.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio-stacktracer_2.13:1.0.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:izumi-reflect_2.13:1.1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.portable-scala:portable-scala-reflect_2.13:1.1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-sbt:test-interface:1.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-effect_2.13:2.5.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-mtl_2.13:1.2.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: co.fs2:fs2-core_2.13:2.5.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.client3:async-http-client-backend_2.13:3.3.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.client3:zio_2.13:3.3.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio-interop-reactivestreams_2.13:1.3.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: javax.inject:javax.inject:1:jar" level="project" />
+    <orderEntry type="library" name="sbt: aopalliance:aopalliance:1.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.checkerframework:checker-compat-qual:2.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.errorprone:error_prone_annotations:2.1.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.j2objc:j2objc-annotations:1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.codehaus.mojo:animal-sniffer-annotations:1.14:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.play:play-functional_2.13:2.9.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.fasterxml.jackson.core:jackson-core:2.10.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.fasterxml.jackson.core:jackson-annotations:2.10.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.10.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.10.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.fasterxml.jackson.core:jackson-databind:2.10.5.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.squareup.okio:okio:2.8.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jetbrains.kotlin:kotlin-stdlib:1.4.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:izumi-reflect-thirdparty-boopickle-shaded_2.13:1.1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scodec:scodec-bits_2.13:1.1.27:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.asynchttpclient:async-http-client:2.12.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.shared:zio_2.13:1.2.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.reactivestreams:reactive-streams:1.0.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jetbrains:annotations:13.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.asynchttpclient:async-http-client-netty-utils:2.12.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-codec-http:4.1.60.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-handler:4.1.60.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-codec-socks:4.1.60.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-handler-proxy:4.1.60.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.netty:netty-reactive-streams:2.0.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.sun.activation:jakarta.activation:1.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-buffer:4.1.60.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-common:4.1.60.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-transport:4.1.60.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-codec:4.1.60.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-resolver:4.1.60.Final:jar" level="project" />
+  </component>
+</module>

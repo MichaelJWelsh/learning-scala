@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="zio-workshop_3499,zio-workshop_3499.main,zio-workshop_3499.test,zioWorkshops" />
+    <profile name="sbt 2" modules="zioWorkshops.main,zioWorkshops.test">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <option name="explainTypeErrors" value="true" />
+      <parameters>
+        <parameter value="-encoding" />
+        <parameter value="utf-8" />
+        <parameter value="-Xcheckinit" />
+        <parameter value="-Wdead-code" />
+        <parameter value="-Wextra-implicit" />
+        <parameter value="-Wmacros:after" />
+        <parameter value="-Wnumeric-widen" />
+        <parameter value="-Woctal-literal" />
+        <parameter value="-Wunused:patvars" />
+        <parameter value="-Wunused:privates" />
+        <parameter value="-Wunused:locals" />
+        <parameter value="-Wunused:explicits" />
+        <parameter value="-Wunused:implicits" />
+        <parameter value="-Wunused:params" />
+        <parameter value="-Wconf:src=target/.*:s,cat=deprecation:s" />
+        <parameter value="-Xlint:adapted-args" />
+        <parameter value="-Xlint:constant" />
+        <parameter value="-Xlint:delayedinit-select" />
+        <parameter value="-Xlint:doc-detached" />
+        <parameter value="-Xlint:eta-sam" />
+        <parameter value="-Xlint:eta-zero" />
+        <parameter value="-Xlint:implicit-not-found" />
+        <parameter value="-Xlint:inaccessible" />
+        <parameter value="-Xlint:infer-any" />
+        <parameter value="-Xlint:missing-interpolator" />
+        <parameter value="-Xlint:nonlocal-return" />
+        <parameter value="-Xlint:option-implicit" />
+        <parameter value="-Xlint:package-object-classes" />
+        <parameter value="-Xlint:poly-implicit-overload" />
+        <parameter value="-Xlint:private-shadow" />
+        <parameter value="-Xlint:serial" />
+        <parameter value="-Xlint:stars-align" />
+        <parameter value="-Xlint:type-parameter-shadow" />
+        <parameter value="-Xlint:valpattern" />
+      </parameters>
+    </profile>
+  </component>
+</project>

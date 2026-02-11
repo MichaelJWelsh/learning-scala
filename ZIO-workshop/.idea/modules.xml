@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ZIO-workshop/zioWorkshops.iml" filepath="$PROJECT_DIR$/.idea/modules/ZIO-workshop/zioWorkshops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ZIO-workshop/zioWorkshops.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ZIO-workshop/zioWorkshops.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ZIO-workshop/zioWorkshops.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ZIO-workshop/zioWorkshops.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ZIO-workshop/zioWorkshops.zioWorkshops-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ZIO-workshop/zioWorkshops.zioWorkshops-build.iml" />
+    </modules>
+  </component>
+</project>
